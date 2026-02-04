@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital ID Card</title>
+</head>
+<body>
+
+    <header>
+        <h1>Theresemaryculatetadle</h1>
+    </header>
+
+    <main>
+        <p><strong>Course:</strong> BSIT</p>
+        <p><strong>Dream Job:</strong> Software Engineer</p>
+    </main>
+
+    <footer>
+        <p>Social Media: 
+            <a href="https://www.youtube.com/" target="_blank">My YouTube</a>
+        </p>
+    </footer>
+
+</body>
+</html>
